@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /was_checking_byupptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Chunter Server Status
   introTitle: "Web-Server Monitor"
   introMessage: 서버 상태 확인
   navbar:

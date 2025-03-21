@@ -1,22 +1,22 @@
 [
   {
     "name": "Alzam",
-    "url": "https://alazam.babysleep.co.kr",
-    "icon": "https://icons.duckduckgo.com/ip3/alazam.babysleep.co.kr.ico",
+    "url": "https://alzam.babysleep.co.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/alzam.babysleep.co.kr.ico",
     "slug": "alzam",
-    "status": "down",
-    "uptime": "0.97%",
-    "uptimeDay": "0.97%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "0.97%",
-    "uptimeYear": "0.97%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.83%",
+    "uptimeDay": "0.83%",
+    "uptimeWeek": "0.83%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "0.83%",
+    "time": 1099,
+    "timeDay": 1099,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {
-      "2025-03-21": 4
+      "2025-03-21": 16
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.babysleep.co.kr.ico",
     "slug": "babysleep",
     "status": "down",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 4
+      "2025-03-21": 16
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodnightbaby.org.ico",
     "slug": "goodnightbaby",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 3
+      "2025-03-21": 16
     }
   }
 ]

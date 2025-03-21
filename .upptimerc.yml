@@ -8,7 +8,7 @@ sites:
   - name: Babysleep
     url: https://www.babysleep.co.kr
   - name: Goodnightbaby
-    url: https://goodnightbaby.org
+    url: https://www.goodnightbaby.org
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

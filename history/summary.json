@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alzam.babysleep.co.kr.ico",
     "slug": "alzam",
     "status": "up",
-    "uptime": "76.57%",
-    "uptimeDay": "76.57%",
-    "uptimeWeek": "76.57%",
-    "uptimeMonth": "76.57%",
-    "uptimeYear": "76.57%",
-    "time": 1320,
-    "timeDay": 1320,
-    "timeWeek": 1320,
-    "timeMonth": 1320,
-    "timeYear": 1320,
+    "uptime": "91.25%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
+    "time": 1276,
+    "timeDay": 1276,
+    "timeWeek": 1276,
+    "timeMonth": 1276,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2025-03-21": 16
     }
@@ -24,6 +24,26 @@
     "url": "https://www.babysleep.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.babysleep.co.kr.ico",
     "slug": "babysleep",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-03-21": 185
+    }
+  },
+  {
+    "name": "Goodnightbaby",
+    "url": "https://www.goodnightbaby.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.goodnightbaby.org.ico",
+    "slug": "goodnightbaby",
     "status": "down",
     "uptime": "0.02%",
     "uptimeDay": "0.02%",
@@ -36,27 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 69
-    }
-  },
-  {
-    "name": "Goodnightbaby",
-    "url": "https://goodnightbaby.org",
-    "icon": "https://icons.duckduckgo.com/ip3/goodnightbaby.org.ico",
-    "slug": "goodnightbaby",
-    "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-03-21": 69
+      "2025-03-21": 185
     }
   }
 ]

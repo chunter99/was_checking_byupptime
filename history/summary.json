@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alazam.babysleep.co.kr.ico",
     "slug": "alzam",
     "status": "down",
-    "uptime": "11.95%",
-    "uptimeDay": "11.95%",
-    "uptimeWeek": "11.95%",
-    "uptimeMonth": "11.95%",
-    "uptimeYear": "11.95%",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-21": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.babysleep.co.kr.ico",
     "slug": "babysleep",
     "status": "down",
-    "uptime": "10.23%",
-    "uptimeDay": "10.23%",
-    "uptimeWeek": "10.23%",
-    "uptimeMonth": "10.23%",
-    "uptimeYear": "10.23%",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-21": 4
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodnightbaby.org.ico",
     "slug": "goodnightbaby",
     "status": "down",
-    "uptime": "13.11%",
-    "uptimeDay": "13.11%",
-    "uptimeWeek": "13.11%",
-    "uptimeMonth": "13.11%",
-    "uptimeYear": "13.11%",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-21": 3
     }
   }
 ]

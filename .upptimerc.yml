@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "WebServer Monitor"
+  introTitle: "Web-Server Monitor"
   introMessage: 서버 상태 확인
   navbar:
     - title: Status

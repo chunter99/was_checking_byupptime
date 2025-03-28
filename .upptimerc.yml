@@ -6,9 +6,9 @@ sites:
   - name: Alzam
     url: https://alzam.babysleep.co.kr
   - name: Babysleep
-    url: https://www.babysleep.co.kr
+    url: https://www.babysleep.co.kr/test01
   - name: Goodnightbaby
-    url: https://www.goodnightbaby.org
+    url: https://www.goodnightbaby.org/test01
   - name: goose-auth-api
     url: https://goose-auth-api.mooo.com/swagger-ui/index.html
 assignees: # Users to assign downtime issues (optional)

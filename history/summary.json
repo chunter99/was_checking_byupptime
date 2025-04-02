@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alzam.babysleep.co.kr.ico",
     "slug": "alzam",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1279,
-    "timeDay": 1084,
-    "timeWeek": 1200,
-    "timeMonth": 1279,
-    "timeYear": 1279,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1269,
+    "timeDay": 1047,
+    "timeWeek": 1182,
+    "timeMonth": 1269,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-03-21": 16
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 118,
+      "2025-04-02": 108,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -67,7 +68,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 118,
+      "2025-04-02": 108,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -92,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 568,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "time": 623,
+    "timeDay": 607,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   }
 ]
